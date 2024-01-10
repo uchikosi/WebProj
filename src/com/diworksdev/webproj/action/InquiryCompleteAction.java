@@ -1,5 +1,6 @@
 package com.diworksdev.webproj.action;
 import com.opensymphony.xwork2.ActionSupport;
+
 public class InquiryCompleteAction extends ActionSupport{
 	private String name;
 	private String qtype;
